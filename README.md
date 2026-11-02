@@ -7,7 +7,7 @@
 > Any restaurant uploads its own sales history; the app learns that restaurant's menu and patterns and produces a daily prep sheet.
 
 <!-- بعد النشر على Streamlit Cloud حط اللينك هنا -->
-**🔗 Live app:** _coming soon_
+**🔗 Live app:** https://qidra-food-prep.streamlit.app/
 
 ![Today's prep sheet](assets/today.png)
 <sub>ورقة تحضير النهارده: كمية كل أكلة، والمدى المتوقع، والفاضل من امبارح · Today's prep sheet</sub>
